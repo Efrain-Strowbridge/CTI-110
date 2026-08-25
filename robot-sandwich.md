@@ -43,4 +43,4 @@
 
 ## Done When
 - Every item on the table has been resealed and in their original positions.
-- The sandwich is complete and all the ingredients being used properly.
+- The sandwich is complete, all the ingredients have been used.
