@@ -1,4 +1,3 @@
-
 # A Robot's Step-by-Step guide to make a PB&J Sandwich
 
 ## Needed Items
