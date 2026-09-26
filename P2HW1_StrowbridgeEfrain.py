@@ -1,7 +1,7 @@
 # Efrain Strowbridge
 # 9/25/26
 # P2HW1
-# A brief description of the project
+# This Program calculates and displays travel expenses
 
 
 # These constants calculate the travel expenses according to the user's input.
